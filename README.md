@@ -51,6 +51,8 @@ CAM Top Level
     └── Register Array (64 × 32-bit entries)
 ```
 
+<img src ="images/CAM.png">
+
 ### Key Components
 
 1. **MATCHING_CIRCUIT**: Parallel comparison of input key against all stored tags
@@ -177,6 +179,8 @@ begin
     );
 end STRUCT;
 ```
+
+<img src ="images/Matching_unit.png">
 
 ## ⚙️ Synthesis
 
