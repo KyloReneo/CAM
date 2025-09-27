@@ -4,7 +4,7 @@ A synthesizable VHDL implementation of a 64-entry Content Addressable Memory (CA
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#Overview)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Interface Specification](#interface-specification)
