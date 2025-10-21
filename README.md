@@ -4,18 +4,18 @@ A synthesizable VHDL implementation of a 64-entry Content Addressable Memory (CA
 
 ## 📋 Table of Contents
 
-- [Overview](#Overview)
-- [Features](#features)
+- [Overview](#-overview)
+- [Features](#-features)
 - [Architecture](#architecture)
-- [Interface Specification](#interface-specification)
-- [Memory Configuration](#memory-configuration)
-- [File Structure](#file-structure)
-- [Usage](#usage)
-- [Synthesis](#synthesis)
-- [Testing](#testing)
-- [Performance](#performance)
-- [Applications](#applications)
-- [Contributing](#contributing)
+- [Interface Specification](#-interface-specification)
+- [Memory Configuration](#-memory-configuration)
+- [File Structure](#-file-structure)
+- [Usage](#-usage)
+- [Synthesis](#-synthesis)
+- [Testing](#-testing)
+- [Performance](#-performance)
+- [Applications](#-applications)
+- [Contributing](#-contributing)
 
 ## 🔍 Overview
 
